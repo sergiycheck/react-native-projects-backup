@@ -1,0 +1,22 @@
+{
+  "feed": [
+    {
+      "id": 0,
+      "username": "@user1",
+      "tags": "#fyp #reactnative #tiktok",
+      "music": "original sound - user1",
+      "likes": 9444,
+      "comments": 6340,
+      "uri": "https://assets.mixkit.co/videos/preview/mixkit-winter-fashion-cold-looking-woman-concept-video-39874-large.mp4"
+    },
+    {
+      "id": 1,
+      "username": "@user2",
+      "tags": "#fyp #viral #tiktok #real #pov",
+      "music": "original sound - user2",
+      "likes": 8411,
+      "comments": 2240,
+      "uri": "https://assets.mixkit.co/videos/preview/mixkit-portrait-of-a-woman-in-a-pool-1259-large.mp4"
+    }
+  ]
+}
